@@ -10,9 +10,7 @@ tags:
   - recognition
   - Sisyphus
 ---
-We live in a golden age of software engineering. There are many developers out there delivering great value and literally changing the world.
-
-You, the average reader, are likely not one of them.
+We live in a golden age of software engineering. There are many developers out there delivering great value and literally changing the world. You, the average reader, are likely not one of them.
 
 You are much more likely to be working on maintaining a legacy product, developing small, incremental features to a seldom-used application, or even working on infrastructure problems that only really get noticed when something blows up. Just ask a GitHub database engineer.
 
