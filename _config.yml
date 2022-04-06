@@ -9,6 +9,7 @@ url                      : https://evan.carmo.dev # the base hostname & protocol
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache
+  - jekyll-feed
 relative_links:
   enabled: true
   collections: true
