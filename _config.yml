@@ -1,4 +1,11 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+locale                   : "en-US"
+title                    : "Evan do Carmo"
+title_separator          : "-"
+subtitle                 : "Writing about what I (kinda) know: Software Engineering and human relationships."
+description              : &description "Writing about what I (kinda) know: Software Engineering and human relationships."
+url                      : https://evan.carmo.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache
@@ -9,3 +16,10 @@ include:
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
+author:
+  name             : "Evan do Carmo" # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/avatar.jpg"
+  location         : "Worcester, MA"
+tag_archive:
+  type: liquid
+  path: /tags/
