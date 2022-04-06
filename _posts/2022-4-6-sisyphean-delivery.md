@@ -1,5 +1,5 @@
 ---
-title: "Sisyphean Delivery, or how to foster a sense of purpose in a development team"
+title: "Sisyphean Delivery, or How to Foster a Sense of Purpose in a Development Team"
 categories:
   - Software Engineering
 tags:
